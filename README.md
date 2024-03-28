@@ -3,7 +3,7 @@ interactive stage performances
 
 arci is in active developement and is _not_ yet recommended for productive use. Feel free to experiment with it though :)
 
-Developement by [bleeptrack](https://www.bleeptrack.de) and [Leo](https://www.instagram.com/henrikeiglesiasinsta).
+Developement by [bleeptrack](https://www.bleeptrack.de) and [Henrike Iglesias]([https://www.instagram.com/henrikeiglesiasinsta](https://henrikeiglesias.com/)).
 
 # Requirements
 
@@ -44,4 +44,4 @@ You can create your own Interaction Types by adding a file to the ```public/Inte
 
 This project is supported by Prototype Fund and BMBF.
 
-Big thank you to Lasse and [exMachina](https://machinaex.org/) for your inspiration!
+Big thank you to Lasse Marburg and [machina ex](https://machinaex.org/) for your inspiration!
