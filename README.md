@@ -1,9 +1,9 @@
 # arci
-interactive stage performances
+interactive stage performances via smartphone
 
 arci is in active developement and is _not_ yet recommended for productive use. Feel free to experiment with it though :)
 
-Developement by [bleeptrack](https://www.bleeptrack.de) and [Henrike Iglesias]([https://www.instagram.com/henrikeiglesiasinsta](https://henrikeiglesias.com/)).
+Developement by [bleeptrack](https://www.bleeptrack.de) and [Henrike Iglesias](https://www.instagram.com/henrikeiglesiasinsta](https://henrikeiglesias.com/).
 
 # Requirements
 
