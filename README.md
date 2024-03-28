@@ -42,12 +42,13 @@ You can create your own Interaction Types by adding a file to the ```public/Inte
 
 # Examples
 
-["Flames to Dust" Performance by Henrike Iglesias](https://vimeo.com/783255056)
-[Behind the Scenes of "Flames to Dust"](https://youtu.be/FHuoa7xH7Dw)
+  - ["Flames to Dust" Performance by Henrike Iglesias](https://vimeo.com/783255056)
+  - [Behind the Scenes of "Flames to Dust"](https://youtu.be/FHuoa7xH7Dw)
 
 # License 
 
 arci uses the [Blue Oak Model 1.0 License](https://blueoakcouncil.org/license/1.0.0)
+
 We also kindly ask you to mention archi(bleeptrack, Henrike Iglesias) in your performance credits :)
 
 # Thank you!
